@@ -6,7 +6,7 @@
             <title>Version 0.1.2</title>
             <description>desc</description>
             <pubDate>Sun, 05 Aug 2021 12:00:00 +0000</pubDate>
-            <enclosure url="https://localhost:54977/parkon.zip" sparkle:version="0.1.2" sparkle:os="android"/>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.lykiqlabs.parkon" sparkle:version="0.1.2" sparkle:os="android"/>
             <sparkle:tags><sparkle:criticalUpdate/></sparkle:tags>
         </item>
     </channel>
